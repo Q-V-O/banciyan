@@ -40,7 +40,7 @@ Safari (这个好像是内置的)
 
 ## 打包版好的jar包配置:
 [点击下载打包好的jar包](https://github.com/Q-V-O/banciyan/releases/tag/mao)
-
+![img.png](img.png)
 用解压文件打开(打开就行,别解压文件啊), 在里面会看到一个 config.properties 文件. 
 用文本编辑器打开就行 (如:win的记事本)
 然后配置文件的修改方法上面有一样的
